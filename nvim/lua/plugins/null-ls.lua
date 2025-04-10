@@ -7,7 +7,7 @@ return {
         null_ls.builtins.formatting.stylua,
         null_ls.builtins.formatting.clang_format,
         null_ls.builtins.completion.spell,
-        null_ls.builtins.diagnostics.cpplint,
+        null_ls.builtins.diagnostics.cppcheck,
       },
     })
     vim.keymap.set("n", ";", vim.lsp.buf.format, {})

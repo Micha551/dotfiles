@@ -1,4 +1,4 @@
 print("hello")
 require("options")
 require("config.lazy")
-vim.cmd("colorscheme gruvbox")
+vim.cmd("colorscheme kanagawa")
