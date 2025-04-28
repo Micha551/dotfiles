@@ -1,0 +1,16 @@
+2025/04/19-16:25:30.395 12ca Reusing MANIFEST /home/migio/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2025/04/19-16:25:30.424 12ca Recovering log #13
+2025/04/19-16:25:30.430 12ca Reusing old log /home/migio/.config/discord/Local Storage/leveldb/000013.log 
+2025/04/19-18:39:37.553 12ca Level-0 table #17: started
+2025/04/19-18:39:37.691 12ca Level-0 table #17: 3551896 bytes OK
+2025/04/19-18:39:37.699 12ca Delete type=0 #13
+2025/04/19-18:39:37.704 12ca Compacting 4@0 + 1@1 files
+2025/04/19-18:39:37.827 12ca Generated table #18@0: 5 keys, 2519899 bytes
+2025/04/19-18:39:37.950 12ca Generated table #19@0: 43 keys, 1027348 bytes
+2025/04/19-18:39:37.950 12ca Compacted 4@0 + 1@1 files => 3547247 bytes
+2025/04/19-18:39:37.956 12ca compacted to: files[ 0 2 1 0 0 0 0 ]
+2025/04/19-18:39:37.957 12ca Delete type=2 #7
+2025/04/19-18:39:37.957 12ca Delete type=2 #10
+2025/04/19-18:39:37.957 12ca Delete type=2 #12
+2025/04/19-18:39:37.958 12ca Delete type=2 #14
+2025/04/19-18:39:37.958 12ca Delete type=2 #17
