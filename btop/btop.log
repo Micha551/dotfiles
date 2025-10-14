@@ -130,3 +130,126 @@
 
 2025/04/28 (14:56:38) | ===> btop++ v.1.4.0
 2025/04/28 (14:56:38) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/29 (13:29:41) | ===> btop++ v.1.4.0
+2025/04/29 (13:29:41) | WARNING: NVML: Failed to get maximum GPU power draw, defaulting to 225W: Not Supported
+2025/04/29 (13:29:41) | WARNING: NVML: Failed to get maximum GPU temperature, defaulting to 110°C: Not Supported
+2025/04/29 (13:29:41) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/29 (13:29:41) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/29 (19:35:02) | ===> btop++ v.1.4.0
+2025/04/29 (19:35:02) | WARNING: NVML: Failed to get maximum GPU power draw, defaulting to 225W: Not Supported
+2025/04/29 (19:35:02) | WARNING: NVML: Failed to get maximum GPU temperature, defaulting to 110°C: Not Supported
+2025/04/29 (19:35:02) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/29 (19:35:02) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/30 (16:42:54) | ===> btop++ v.1.4.0
+2025/04/30 (16:42:54) | WARNING: NVML: Failed to get maximum GPU power draw, defaulting to 225W: Not Supported
+2025/04/30 (16:42:54) | WARNING: NVML: Failed to get maximum GPU temperature, defaulting to 110°C: Not Supported
+2025/04/30 (16:42:54) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/30 (16:42:54) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/05/02 (15:12:05) | ===> btop++ v.1.4.0
+2025/05/02 (15:12:05) | WARNING: NVML: Failed to get maximum GPU power draw, defaulting to 225W: Not Supported
+2025/05/02 (15:12:05) | WARNING: NVML: Failed to get maximum GPU temperature, defaulting to 110°C: Not Supported
+2025/05/02 (15:12:05) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/05/02 (15:12:05) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/05/09 (15:02:03) | ===> btop++ v.1.4.0
+2025/05/09 (15:02:03) | WARNING: NVML: Failed to get maximum GPU power draw, defaulting to 225W: Not Supported
+2025/05/09 (15:02:03) | WARNING: NVML: Failed to get maximum GPU temperature, defaulting to 110°C: Not Supported
+2025/05/09 (15:02:03) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/05/09 (15:02:03) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/05/19 (23:04:11) | ===> btop++ v.1.4.0
+2025/05/19 (23:04:11) | WARNING: NVML: Failed to get maximum GPU power draw, defaulting to 225W: Not Supported
+2025/05/19 (23:04:11) | WARNING: NVML: Failed to get maximum GPU temperature, defaulting to 110°C: Not Supported
+2025/05/19 (23:04:11) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/05/19 (23:04:11) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/05/20 (14:16:08) | ===> btop++ v.1.4.0
+2025/05/20 (14:16:08) | WARNING: NVML: Failed to get maximum GPU power draw, defaulting to 225W: Not Supported
+2025/05/20 (14:16:08) | WARNING: NVML: Failed to get maximum GPU temperature, defaulting to 110°C: Not Supported
+2025/05/20 (14:16:08) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/05/20 (14:16:08) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/05/20 (14:39:41) | ===> btop++ v.1.4.0
+2025/05/20 (14:39:41) | WARNING: NVML: Failed to get maximum GPU power draw, defaulting to 225W: Not Supported
+2025/05/20 (14:39:41) | WARNING: NVML: Failed to get maximum GPU temperature, defaulting to 110°C: Not Supported
+2025/05/20 (14:39:41) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/05/20 (14:39:41) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/05/21 (11:11:13) | ===> btop++ v.1.4.0
+2025/05/21 (11:11:13) | WARNING: NVML: Failed to get maximum GPU power draw, defaulting to 225W: Not Supported
+2025/05/21 (11:11:13) | WARNING: NVML: Failed to get maximum GPU temperature, defaulting to 110°C: Not Supported
+2025/05/21 (11:11:13) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/05/21 (11:11:13) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/05/22 (10:14:58) | ===> btop++ v.1.4.0
+2025/05/22 (10:14:58) | WARNING: NVML: Failed to get maximum GPU power draw, defaulting to 225W: Not Supported
+2025/05/22 (10:14:58) | WARNING: NVML: Failed to get maximum GPU temperature, defaulting to 110°C: Not Supported
+2025/05/22 (10:14:58) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/05/22 (10:14:58) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/06/03 (19:09:17) | ===> btop++ v.1.4.0
+2025/06/03 (19:09:17) | WARNING: NVML: Failed to get maximum GPU power draw, defaulting to 225W: Not Supported
+2025/06/03 (19:09:17) | WARNING: NVML: Failed to get maximum GPU temperature, defaulting to 110°C: Not Supported
+2025/06/03 (19:09:17) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/06/03 (19:09:17) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/06/04 (12:59:25) | ===> btop++ v.1.4.0
+2025/06/04 (12:59:25) | WARNING: NVML: Failed to get maximum GPU power draw, defaulting to 225W: Not Supported
+2025/06/04 (12:59:25) | WARNING: NVML: Failed to get maximum GPU temperature, defaulting to 110°C: Not Supported
+2025/06/04 (12:59:25) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/06/04 (12:59:25) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/06/23 (12:08:19) | ===> btop++ v.1.4.0
+2025/06/23 (12:08:19) | WARNING: NVML: Failed to get maximum GPU power draw, defaulting to 225W: Not Supported
+2025/06/23 (12:08:20) | WARNING: NVML: Failed to get maximum GPU temperature, defaulting to 110°C: Not Supported
+2025/06/23 (12:08:20) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/06/23 (12:08:20) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/06/23 (12:09:18) | ===> btop++ v.1.4.0
+2025/06/23 (12:09:18) | WARNING: NVML: Failed to get maximum GPU power draw, defaulting to 225W: Not Supported
+2025/06/23 (12:09:18) | WARNING: NVML: Failed to get maximum GPU temperature, defaulting to 110°C: Not Supported
+2025/06/23 (12:09:18) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/06/23 (12:09:18) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/07/03 (15:38:36) | ===> btop++ v.1.4.0
+2025/07/03 (15:38:36) | WARNING: NVML: Failed to get maximum GPU power draw, defaulting to 225W: Not Supported
+2025/07/03 (15:38:36) | WARNING: NVML: Failed to get maximum GPU temperature, defaulting to 110°C: Not Supported
+2025/07/03 (15:38:36) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/07/03 (15:38:36) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/07/10 (14:19:58) | ===> btop++ v.1.4.0
+2025/07/10 (14:19:58) | WARNING: NVML: Failed to get maximum GPU power draw, defaulting to 225W: Not Supported
+2025/07/10 (14:19:58) | WARNING: NVML: Failed to get maximum GPU temperature, defaulting to 110°C: Not Supported
+2025/07/10 (14:19:58) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/07/10 (14:19:58) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/07/22 (19:15:57) | ===> btop++ v.1.4.0
+2025/07/22 (19:15:57) | WARNING: NVML: Failed to get maximum GPU power draw, defaulting to 225W: Not Supported
+2025/07/22 (19:15:57) | WARNING: NVML: Failed to get maximum GPU temperature, defaulting to 110°C: Not Supported
+2025/07/22 (19:15:57) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/07/22 (19:15:57) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/07/23 (16:04:58) | ===> btop++ v.1.4.0
+2025/07/23 (16:04:58) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/07/30 (21:53:22) | ===> btop++ v.1.4.0
+2025/07/30 (21:53:22) | WARNING: NVML: Failed to get maximum GPU power draw, defaulting to 225W: Not Supported
+2025/07/30 (21:53:22) | WARNING: NVML: Failed to get maximum GPU temperature, defaulting to 110°C: Not Supported
+2025/07/30 (21:53:22) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/07/30 (21:53:22) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/08/17 (01:12:01) | ===> btop++ v.1.4.0
+2025/08/17 (01:12:01) | WARNING: NVML: Failed to get maximum GPU power draw, defaulting to 225W: Not Supported
+2025/08/17 (01:12:01) | WARNING: NVML: Failed to get maximum GPU temperature, defaulting to 110°C: Not Supported
+2025/08/17 (01:12:01) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/08/17 (01:12:01) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/08/26 (22:29:29) | ===> btop++ v.1.4.0
+2025/08/26 (22:29:29) | WARNING: NVML: Failed to get maximum GPU power draw, defaulting to 225W: Not Supported
+2025/08/26 (22:29:29) | WARNING: NVML: Failed to get maximum GPU temperature, defaulting to 110°C: Not Supported
+2025/08/26 (22:29:29) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/08/26 (22:29:29) | WARNING: Intel GPU: Failed to initialize PMU

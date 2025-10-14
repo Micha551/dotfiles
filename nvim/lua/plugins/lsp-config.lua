@@ -24,6 +24,12 @@ return {
       })
       lspconfig.clangd.setup({
         capabilities = capabilities,
+        vim.diagnostic.disable(),
+        cmd = {
+          "clangd",
+          "--offset-encoding=utf-16",
+          "--header-insertion=never",
+        },
       })
       vim.keymap.set("n", "K", vim.lsp.buf.hover, {})
       vim.keymap.set("n", "<leader>ca", vim.lsp.buf.code_action, {})

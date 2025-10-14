@@ -16,13 +16,13 @@
     (monitor 0)
     (open-on-exit)
     (aux-info
-        (left-docks-width "188")
+        (left-docks-width "364")
         (right-docks-width "283")
         (maximized "yes"))
     (gimp-toolbox
         (side left)
         (book
-            (current-page 0)
+            (current-page 3)
             (dockable "gimp-tool-options"
                 (tab-style icon)
                 (aux-info
@@ -42,7 +42,7 @@
     (gimp-dock
         (side right)
         (book
-            (current-page 0)
+            (current-page 4)
             (dockable "gimp-brush-grid"
                 (tab-style icon)
                 (aux-info
@@ -58,10 +58,16 @@
             (dockable "gimp-document-list"
                 (tab-style icon)
                 (aux-info
-                    (show-button-bar "true"))))
+                    (show-button-bar "true")))
+            (dockable "gimp-palette-editor"
+                (tab-style icon)
+                (aux-info
+                    (show-button-bar "true")
+                    (edit-active "true")
+                    (current-data "Standard"))))
         (book
-            (position 332)
-            (current-page 0)
+            (position 259)
+            (current-page 2)
             (dockable "gimp-layer-list"
                 (tab-style icon)
                 (preview-size 32)
@@ -80,15 +86,28 @@
 (session-info "toplevel"
     (factory-entry "gimp-file-open-dialog")
     (position 0 0)
-    (size 950 470)
+    (size 950 996)
     (monitor 0))
 (session-info "toplevel"
     (factory-entry "gimp-file-export-dialog")
     (position 0 0)
-    (size 950 470)
+    (size 950 996)
     (monitor 0))
 (session-info "toplevel"
     (factory-entry "gimp-scale-tool-dialog")
+    (position 0 0)
+    (monitor 0))
+(session-info "toplevel"
+    (factory-entry "gimp-toolbox-color-dialog")
+    (position 0 0)
+    (monitor 0))
+(session-info "toplevel"
+    (factory-entry "gimp-file-save-dialog")
+    (position 0 0)
+    (size 950 996)
+    (monitor 0))
+(session-info "toplevel"
+    (factory-entry "gimp-image-new-dialog")
     (position 0 0)
     (monitor 0))
 
