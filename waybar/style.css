@@ -4,7 +4,7 @@
 }
 
 window#waybar {
-    background-color: rgba(43, 48, 59, 0.3);
+    background-color: rgba(0, 0, 0, 0);
     border-bottom: 3px solid rgba(100, 114, 125, 0.5);
     color: #ffffff;
     transition-property: background-color;
@@ -213,8 +213,7 @@ label:focus {
 
 #custom-media {
     background-color: rgba(11,11,11,0);
-    color: #2a5c45;
-    min-width: 100px;
+    color: rgba(173, 68, 237,.5);
 }
 
 #custom-media.custom-spotify {

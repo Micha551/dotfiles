@@ -1,6 +1,0 @@
-2025/07/25-23:28:09.616 947e Reusing MANIFEST /home/migio/.config/discord/Local Storage/leveldb/MANIFEST-000001
-2025/07/25-23:28:09.648 947e Recovering log #24
-2025/07/25-23:28:09.648 947e Reusing old log /home/migio/.config/discord/Local Storage/leveldb/000024.log 
-2025/07/25-23:32:29.665 947f Level-0 table #28: started
-2025/07/25-23:32:29.709 947f Level-0 table #28: 1566619 bytes OK
-2025/07/25-23:32:29.714 947f Delete type=0 #24
