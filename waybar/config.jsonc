@@ -25,6 +25,11 @@
         "tray",
         "clock"
     ],
+    
+    "niri/workspaces": {
+        "current-only": true
+    },
+
     "tray": {
         // "icon-size": 21,
         "spacing": 10
