@@ -9,9 +9,6 @@
     "modules-left": [
         "niri/workspaces"
     ],
-    "modules-center": [
-        "custom/media"
-    ],
     "modules-right": [
         "pulseaudio",
         "network",
@@ -122,13 +119,6 @@
             "default": ["", "", ""]
         },
         "on-click": "pavucontrol"
-    },
-    "custom/media": {
-        "format": "{0}",
-        "max-length": 80,
-        "return-type": "json",
-        "escape": true,
-        "exec": "python $HOME/.config/waybar/mediaplayer.py" // Script in resources folder
     },
     "custom/power": {
         "format" : "⏻ ",
