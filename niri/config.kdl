@@ -51,8 +51,7 @@ layout {
     }
 }
 
-spawn-at-startup "waybar"
-spawn-sh-at-startup "swaybg -i ~/.config/Background.png"
+spawn-at-startup "noctalia-shell"
 
 hotkey-overlay {
     skip-at-startup
@@ -63,9 +62,11 @@ screenshot-path "~/Pictures/Screenshots/Screenshot from %Y-%m-%d %H-%M-%S.png"
 animations {
 }
 
+prefer-no-csd
 window-rule {
     geometry-corner-radius 12
     clip-to-geometry true
+    draw-border-with-background false
     default-column-width { proportion 0.5; }
 }
 
@@ -105,10 +106,10 @@ window-rule {
 binds {
     Mod+Shift+7 { show-hotkey-overlay; }
 
-    Mod+Return hotkey-overlay-title="Open a Terminal: ghostty" { spawn "ghostty"; }
-    Mod+D hotkey-overlay-title="Run an Application: fuzzel" { spawn "fuzzel"; }
+    Mod+Return hotkey-overlay-title="Open a Terminal: foot" { spawn "foot"; }
+    Mod+D hotkey-overlay-title="Run an Application: fuzzel" { spawn-sh "noctalia-shell ipc call launcher toggle"; }
 
-    Super+Alt+L hotkey-overlay-title="Lock the Screen: hyprlock" { spawn "hyprlock"; }
+    Super+Alt+L hotkey-overlay-title="Lock the Screen: hyprlock" { spawn-sh "noctalia-shell ipc call sessionMenu lockAndSuspend"; }
 
     Super+Alt+S allow-when-locked=true hotkey-overlay-title=null { spawn-sh "pkill orca || exec orca"; }
 
