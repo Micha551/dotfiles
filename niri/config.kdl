@@ -76,8 +76,6 @@ window-rule {
 }
 
 window-rule {
-    match title="Spotify"
-    open-maximized true
 }
 
 window-rule {
@@ -106,8 +104,8 @@ window-rule {
 binds {
     Mod+Shift+7 { show-hotkey-overlay; }
 
-    Mod+Return hotkey-overlay-title="Open a Terminal: foot" { spawn "foot"; }
-    Mod+D hotkey-overlay-title="Run an Application: fuzzel" { spawn-sh "noctalia-shell ipc call launcher toggle"; }
+    Mod+Return hotkey-overlay-title="Open a Terminal: wezterm" { spawn "wezterm"; }
+    Mod+D hotkey-overlay-title="Run an Application: fuzzel" { spawn "fuzzel"; }
 
     Super+Alt+L hotkey-overlay-title="Lock the Screen: hyprlock" { spawn-sh "noctalia-shell ipc call sessionMenu lockAndSuspend"; }
 

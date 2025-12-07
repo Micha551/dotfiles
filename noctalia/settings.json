@@ -7,10 +7,11 @@
         "pinnedExecs": [
         ],
         "position": "center",
+        "showCategories": true,
         "sortByMostUsed": true,
         "terminalCommand": "foot",
         "useApp2Unit": false,
-        "viewMode": "list"
+        "viewMode": "grid"
     },
     "audio": {
         "cavaFrameRate": 30,
@@ -163,9 +164,9 @@
         "manualSunrise": "06:30",
         "manualSunset": "18:30",
         "matugenSchemeType": "scheme-fruit-salad",
-        "predefinedScheme": "Kanagawa",
+        "predefinedScheme": "Tokyo Night",
         "schedulingMode": "off",
-        "useWallpaperColors": false
+        "useWallpaperColors": true
     },
     "controlCenter": {
         "cards": [
@@ -387,7 +388,7 @@
         "code": false,
         "discord": false,
         "emacs": false,
-        "enableUserTemplates": false,
+        "enableUserTemplates": true,
         "foot": false,
         "fuzzel": false,
         "ghostty": false,
