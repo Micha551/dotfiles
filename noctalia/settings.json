@@ -155,9 +155,6 @@
             }
         ]
     },
-    "changelog": {
-        "lastSeenVersion": ""
-    },
     "colorSchemes": {
         "darkMode": true,
         "generateTemplatesForPredefined": true,
