@@ -8,12 +8,15 @@ return {
 			})
 			vim.lsp.config("clangd", {
 				capabilities = capabilities,
-				vim.diagnostic.enable(false),
+				vim.diagnostic.enable(true),
 				cmd = {
 					"clangd",
 					"--offset-encoding=utf-16",
 					"--header-insertion=never",
 				},
+			})
+			vim.lsp.config("texlab", {
+				capabilities = capabilities,
 			})
 			vim.keymap.set("n", "K", vim.lsp.buf.hover, {})
 			vim.keymap.set("n", "<leader>ca", vim.lsp.buf.code_action, {})

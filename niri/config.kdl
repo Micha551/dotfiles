@@ -19,6 +19,17 @@ input {
     focus-follows-mouse max-scroll-amount="0%"
 }
 
+output "eDP-1" {
+    mode "3840x2160@59.997"
+    scale 2.0
+    position x=1920 y=0
+}
+
+output "DP-6" {
+    mode "1920x1080@144.001"
+    scale 1.0
+    position x=0 y=0
+}
 
 layout {
     gaps 8
@@ -252,3 +263,6 @@ binds {
 
     Mod+Shift+P { power-off-monitors; }
 }
+
+include "./noctalia.kdl"
+

@@ -7,7 +7,7 @@ local config = wezterm.config_builder()
 -- This is where you actually apply your config choices.
 
 config.font_size = 12
-config.color_scheme = "kanagawa-dragon"
+config.color_scheme = "Noctalia"
 
 local act = wezterm.action
 
